@@ -101,8 +101,6 @@ Comment complex logic
 
 Follow PEP8 guidelines
 
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
 🙋‍♂️ Author
 Developed by Vamshi
